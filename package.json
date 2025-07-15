@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "deploy": "gh-pages -d dist"
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.11",
@@ -30,5 +30,5 @@
     "tailwindcss": "^4.1.11",
     "vite": "^7.0.4"
   },
-  "homepage": "https://ketz99.github.io/websitejdg "
+  "homepage": "https://Ketz99.github.io/Miportafolio "
 }
