@@ -74,7 +74,7 @@ export default function App() {
       <section id="home" className="pt-20 pb-32 bg-gradient-to-r from-blue-600 to-blue-800 text-white">
         <div className="w-full px-4 sm:px-6 lg:px-8 flex flex-col items-center text-center">
           <img
-            src="/src/img/2.png"
+            src="/Miportafolio/img/2.png"
             alt="Tu nombre"
             className="w-48 h-48 rounded-full object-cover mx-auto mb-8"
           />
